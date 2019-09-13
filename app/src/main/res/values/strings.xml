@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shop Finder</string>
+    <string name="city_browse_text">Keep browsing the cities</string>
+    <string name="citiesText">Cities</string>
+    <string name="citiesData">CitiesData</string>
+    <string name="offlineMessage">Please go online and restart the app</string>
+    <string name="mallsText">Malls</string>
+    <string name="shopsText">Shops</string>
+    <string name="shopsListText">Shops List</string>
+    <string name="invalidSelection">Please restart the app</string>
+</resources>
